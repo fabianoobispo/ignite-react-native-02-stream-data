@@ -1,1 +1,0 @@
-# ignite-react-native-02-stream-data
